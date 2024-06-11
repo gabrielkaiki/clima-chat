@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910520853746",
+    "firebase_url": "https://climachat-7f6bd-default-rtdb.firebaseio.com",
+    "project_id": "climachat-7f6bd",
+    "storage_bucket": "climachat-7f6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910520853746:android:6f182a98fc5473288d9c6b",
+        "android_client_info": {
+          "package_name": "com.gabrielkaiki.climaplicativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910520853746-ji22le61rftqcml1g8avg3hinmqm0kpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabrielkaiki.climaplicativo",
+            "certificate_hash": "4daba0bfcf503da814ff1e12ac8e927ba254b106"
+          }
+        },
+        {
+          "client_id": "910520853746-chcefg9srua2gnudh32iccfl8rivseam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxj85tHovpXYgHw-TzUBrom2tpSr6oOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910520853746-chcefg9srua2gnudh32iccfl8rivseam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

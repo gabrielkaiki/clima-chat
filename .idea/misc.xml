@@ -1,0 +1,67 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/bg_clima.xml" value="0.171" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_termometro.xml" value="0.171" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_info_clima_local.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/adapter_previsao_dias.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/exemplo.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/tela_carregando.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetosAndroid/ClimaTempo/app/src/main/res/menu/menu_principal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/background_input.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/bg_chat.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/bg_enviar.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/bg_imagem_mensagem_destinatario.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/bg_info_mensagens.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/forma_mensagem_contador.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_ajuda.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_chat.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_deletar_preto.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_gps.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_home_preto.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/ic_search.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/drawable/toolbar_bg.xml" value="0.115" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.139453125" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout-w936dp/activity_login.xml" value="0.190625" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_ajuda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_alterar_senha.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_alterar_tema.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_configuracoes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_dados_pessoais.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_excluir_conta.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_info_clima_local.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_login2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_maps2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/adapter_destinatario.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/adapter_mensagem.xml" value="0.25" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/adapter_previsao_dias.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/adapter_remetente.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/content_scrolling.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/interface_endereco.xml" value="0.3486328125" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/intro_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/intro_2.xml" value="0.264" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/intro_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/intro_4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell Gaming/Desktop/ProjetosAndroid/ClimaTempo/app/src/main/res/menu/menu_principal.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

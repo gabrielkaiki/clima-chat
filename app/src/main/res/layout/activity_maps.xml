@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.gabrielkaiki.climaplicativo.activity.MapsActivity" />
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewMaps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7511082312624464/8138523437" />
+
+    <com.ferfalk.simplesearchview.SimpleSearchView
+        android:id="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:hint="@string/pesquisa" />
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="10dp"
+        app:menu_colorNormal="@color/azul_escuro"
+        app:menu_colorPressed="@color/blue"
+        fab:menu_icon="@drawable/ic_search">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabPesquisa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_pesquisa_preto"
+            app:fab_colorPressed="@color/azul_escuro"
+            fab:fab_colorNormal="?attr/colorPrimary"
+            fab:fab_label="@string/fab_menu_pesquisa"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabGps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_gps"
+            app:fab_colorPressed="@color/azul_escuro"
+            fab:fab_colorNormal="?attr/colorPrimary"
+            fab:fab_label="@string/fab_menu_gps"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabAjuda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_ajuda"
+            app:fab_colorPressed="@color/azul_escuro"
+            fab:fab_colorNormal="?attr/colorPrimary"
+            fab:fab_label="@string/fab_menu_ajuda"
+            fab:fab_size="mini" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabNotificacoes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="15dp"
+        android:clickable="true"
+        android:visibility="gone"
+        app:backgroundTint="@android:color/holo_green_dark"
+        app:fab_colorNormal="#2196F3"
+        app:fab_colorPressed="#03A9F4"
+        fab:srcCompat="@drawable/ic_notifications" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
